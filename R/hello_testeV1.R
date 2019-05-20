@@ -15,7 +15,7 @@
 
 # https://www.analyticsvidhya.com/blog/2017/03/create-packages-r-cran-github/
 hello <- function() {
-  print("Hello, world! Rogerio teste")
+  print("Hello, world! Rogerioss teste")
 }
 
 retorna8 <- function() return(8)
